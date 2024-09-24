@@ -1,0 +1,14 @@
+{
+  "name": "carrinho-da-shopee",
+  "version": "1.0.0",
+  "description": "carrinho de compras da shopee no backend com node js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/index"
+  },
+  "keywords": [],
+  "author": "devpedrosena",
+  "license": "ISC"
+}
